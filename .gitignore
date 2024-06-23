@@ -58,7 +58,7 @@ static/
 
 # Local virtual environment
 venv/
-env/
+myenv/
 ENV/
 env.bak/
 venv.bak/
