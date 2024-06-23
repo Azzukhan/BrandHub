@@ -1,0 +1,112 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+
+# If you are using MySQL or PostgreSQL, you might need to ignore other database files:
+*.db
+*.sqlite3
+*.pgn
+*.hsql
+*.hdb
+
+# Django migrations
+**/migrations/*
+
+# Media files
+media/
+
+# Static files
+staticfiles/
+static/
+
+# Local env files
+.env
+.env.local
+.env.*.local
+*.env
+
+# Local virtual environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.idea/
+*.idea/
+*.iml
+
+# Python virtual environments
+.pip/
+.pip-selfcheck.json
+
+# pyenv
+.python-version
+
+# pytest
+.cache
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Test and coverage reports
+.coverage
+*.cover
+*.py,cover
+nosetests.xml
+coverage.xml
+*.log
+*.ini
+
+# My PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
